@@ -1,2 +1,2 @@
 # I2P
-learning stuff
+Assessment for the Introduction to Programming module at CASA UCL.
